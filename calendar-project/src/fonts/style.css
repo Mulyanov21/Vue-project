@@ -1,0 +1,69 @@
+@font-face {
+    font-family: 'TT Firs Neue';
+    src: local('TT Firs Neue Thin'), local('TT-Firs-Neue-Thin'),
+        url('TTFirsNeue-Thin.woff2') format('woff2'),
+        url('TTFirsNeue-Thin.woff') format('woff'),
+        url('TTFirsNeue-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'TT Firs Neue';
+    src: local('TT Firs Neue Regular'), local('TT-Firs-Neue-Regular'),
+        url('TTFirsNeue-Regular.woff2') format('woff2'),
+        url('TTFirsNeue-Regular.woff') format('woff'),
+        url('TTFirsNeue-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Firs Neue';
+    src: local('TT Firs Neue Light'), local('TT-Firs-Neue-Light'),
+        url('TTFirsNeue-Light.woff2') format('woff2'),
+        url('TTFirsNeue-Light.woff') format('woff'),
+        url('TTFirsNeue-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Firs Neue';
+    src: local('TT Firs Neue Extra Light'), local('TT-Firs-Neue-Extra-Light'),
+        url('TTFirsNeue-ExtraLight.woff2') format('woff2'),
+        url('TTFirsNeue-ExtraLight.woff') format('woff'),
+        url('TTFirsNeue-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Firs Neue';
+    src: local('TT Firs Neue Demi Bold'), local('TT-Firs-Neue-Demi-Bold'),
+        url('TTFirsNeue-DemiBold.woff2') format('woff2'),
+        url('TTFirsNeue-DemiBold.woff') format('woff'),
+        url('TTFirsNeue-DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Firs Neue';
+    src: local('TT Firs Neue Bold'), local('TT-Firs-Neue-Bold'),
+        url('TTFirsNeue-Bold.woff2') format('woff2'),
+        url('TTFirsNeue-Bold.woff') format('woff'),
+        url('TTFirsNeue-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Firs Neue';
+    src: local('TT Firs Neue Black'), local('TT-Firs-Neue-Black'),
+        url('TTFirsNeue-Black.woff2') format('woff2'),
+        url('TTFirsNeue-Black.woff') format('woff'),
+        url('TTFirsNeue-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}

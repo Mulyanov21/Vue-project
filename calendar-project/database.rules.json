@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "vkf": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}

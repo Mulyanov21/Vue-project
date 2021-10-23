@@ -1,4 +1,4 @@
-# projects
+# calendar-project
 
 ## Project setup
 ```
